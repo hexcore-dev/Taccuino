@@ -1,5 +1,5 @@
 {
-  "applicationId": "js.neutralino.zero",
+  "applicationId": "com.hexcore.taccuino",
   "version": "1.0.0",
   "defaultMode": "window",
   "documentRoot": "/www/",
@@ -11,7 +11,7 @@
   ],
   "modes": {
     "window": {
-      "title": "blackwake",
+      "title": "Taccuino",
       "width": 800,
       "height": 500,
       "minWidth": 400,
@@ -20,7 +20,7 @@
     }
   },
   "cli": {
-    "binaryName": "blackwake",
+    "binaryName": "Taccuino",
     "resourcesPath": "/www/",
     "extensionsPath": "/extensions/",
     "clientLibrary": "/www/neutralino.js",
